@@ -12,6 +12,7 @@
 		779666FF2272E27A00E04ACB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 779666FD2272E27A00E04ACB /* Main.storyboard */; };
 		779667012272E27A00E04ACB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 779667002272E27A00E04ACB /* Assets.xcassets */; };
 		779667042272E27A00E04ACB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 779667022272E27A00E04ACB /* LaunchScreen.storyboard */; };
+		7796670C2272E2D300E04ACB /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7796670B2272E2D300E04ACB /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		779667002272E27A00E04ACB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		779667032272E27A00E04ACB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		779667052272E27A00E04ACB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7796670B2272E2D300E04ACB /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				779667002272E27A00E04ACB /* Assets.xcassets */,
 				779667022272E27A00E04ACB /* LaunchScreen.storyboard */,
 				779667052272E27A00E04ACB /* Info.plist */,
+				7796670B2272E2D300E04ACB /* Localizable.strings */,
 			);
 			path = "Wooder-iOS";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				779667042272E27A00E04ACB /* LaunchScreen.storyboard in Resources */,
+				7796670C2272E2D300E04ACB /* Localizable.strings in Resources */,
 				779667012272E27A00E04ACB /* Assets.xcassets in Resources */,
 				779666FF2272E27A00E04ACB /* Main.storyboard in Resources */,
 			);
